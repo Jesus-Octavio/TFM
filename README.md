@@ -6,7 +6,7 @@ Depopulation is the main challenge of the demographic issue facing several rural
     
 On the basis of a combination of such theoretical developments and data analysis, the aim of this Master's Degree Thesis is to provide a software that allows to adjust various parameters to further investigate situational changes and future scenarios. The results will be illustrated by applying the model to a specific set of municipalities in Cantabria and using an educated guess for the parameters.
     
-### Keywords: \textit{Depopulation Problem, Digital Twin, Individual, Agent-Based Model, Decision-Making, Theory of Planned Beaviour.}
+### Keywords: Depopulation Problem, Digital Twin, Individual, Agent-Based Model, Decision-Making, Theory of Planned Beaviour.
 
 
 # Modelo de Gemelos Digitales para el Estudio del Fenómeno del Despoblamiento en Cantabria.
@@ -15,4 +15,4 @@ El despoblamiento es el principal reto demográfico que afrontan diversas region
 
 El objetivo de este Trabajo de Fin de Máster es combinar los desarrollos teóricos y el análisis de datos para construir un software que, mediante el ajuste de parámetros, permita investigar futuros escenarios en el contexto del despoblamiento. Se ofrecen resultados en un conjunto de municipios de Cantabria empleando una aproximación incial para los parámetros.
 
-### Palabras Clave: \textit{Despoblamiento, Gemelo Digital, Individuo, Modelos Basados en Agentes, Toma de Decisiones, Teoría del Comportamiento Planeado.}
+### Palabras Clave: Despoblamiento, Gemelo Digital, Individuo, Modelos Basados en Agentes, Toma de Decisiones, Teoría del Comportamiento Planeado.
